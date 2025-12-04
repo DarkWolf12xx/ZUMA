@@ -1,0 +1,479 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "E49A4009F20E8D85340AC30EADA52D727437F1E2",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "9041B79F2C933591589AD4FDDCA01BDEE8065447",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "CADD8FBDA59255FB10A70A09B0474426BCB021D9",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "A8E619A20B6A4C8102A299111B3C37F60A423CF1",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "68BFF243D45AB633EA2137CF46B5EDA17402E891",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "2359E6FC4ED61077E78169FA1D3B418CDCAB8E0A",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "4B3BE7A27F0073C76EB76D1530B1929D8AD091F7",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "9F8D44C3A9E7AC7034C00996ED4B537FD3C2C8A3",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "82313348F32C7714ADCF43C7561A8861A3ABF11D",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "B3864335075EEA61A83C2A884802DE6FB43A26E3",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "1395745EAE49B69967636C8DB2CA08490AE123AC",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "84A6E3D54CAD4CA146DCDAF946ED72BA0027B265",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "080393873C38ECCD6E39DB0D05ECF28FD503EC7C",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "369458BE8AE02CAC4DDD257F0CE6236E332E84E8",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "057AEB6B4C942F09AA4E9215F40FFB97092A0952",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "5BE23EC739231223E3AE7508CB18F871A428C101",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "D2E9AEDC9B942195350435C0A243C97FC31E9A96",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "EDA686E835029DDE7997CFA2E29E175F27E11824",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "E05DFA0B6C17F2A72E202694F014E5C90EEEF861",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "6513C67BF5D01A82E7F6CAFE9367BF06944DAA2C",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "F578F864B4B6C02C693A184D5E2615893D56CFBE",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "DFBBE34D6A6E5F135D03F2BDA7F5D8499B18ADAB",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "DE03325F00BE512E6B0D4A3B79C1901B4B0E50BB",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "6C38AD667049D8201155F6FE6D44BDF9BA41431A",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "03CF2B065AB6F233358040960776B7D52A48E624",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "E7FF9D50BBFE6EA10DE232E7CC6BCE26A6CDDF4E",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "6A178EBFE515EC897B66FB7FB8B4A8AC816E2393",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "B51B8C2D72194253508FB9DEB3D9DA6ED4383A6C",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "E219251E198DAB30E216CE786B75F6AD7C6B6651",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "9BD7DFBD81106B2549ECCB830CDE5C54C221EF90",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "3C5A393D7A9F92DDC753E94411D1D7379DF9B8AD",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "E02AC4EF4CD04953277C6688C758103D62138FB4",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "F5220E3B4540DAF85CCE38C3F7055F55307E09DE",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "03F5EF2BD8662248F3985B52C5DB85ED348C6927",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "936E0A3FB6CE0CFCBB904727E067D268D375C7DA",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "9949EE5F4AC4021852C398334C41B0DDC5DCB0CB",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "3CBBD5078A3E2959D52AE906792D13B2D123C6AC",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "8CCC85D41C83F276FCFB25FD5FF20CC4DB6D15D3",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "E74987529A27F76E3D03B340535BE4A9A65CD896",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "14BE869854D761DC36F6CC2F41957AAA74E966C6",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "DF47D08508E562341E0AC9E83F00E5033A785C1C",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "E6A8B6FBFBB1C7EC5393A0926BDD9E2ACC433249",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "DB8849C36420F2F81EC08D0854E858D4C683EAD3",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "F34F3597DD657969D2ACB4B6EF29AE22FACC7F31",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "966E4094E5912266C2880C29DF9506539439D1A8",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "0A38591B57FE0426D49C08EE5C44C75BE416C428",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "B08C002EBF262AC76597A096138FB1948A3170CE",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "2758CEDF165FD17890566BD86F02DE51739C90DA",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "956D37536C04AD4FD9A552758A2FDC10B5627F34",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "B7CD5D48F8D2F51B11E99D16CCE928249640A57F",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "CAF4842CB1FF74693BD4319DE2CD256634D92910",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "E51509471D06A54F443C3CCFBB2B3C04D806C92B",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "1F4B9FF58120B6CCA440C48F523442B6506BA896",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "B298FC6965F2F6E9029CAE5A4FFFB145C7AB88C9",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "2CAAD8475A76405C3454C199026CBB4C022EB520",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "D02B5FE1E8F4047FF88687966E4F3CEEA205DD24",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "0A280FA21FBB3A5DDA781B831274165EE527F0C1",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "3F71A63B277C32D9A8B6588A41D5F413939C8E29",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "56445AD727F88204DCAD30E6FA910F2C0AD09DBA",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "341858DF1952272551F337BC27B32C53906A1827",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "41725D8C2E58EAE46F4B23DB3BF511EBEDA9E9E3",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "840F776EA16A7161A2C48390BED4ECEC8254C854",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "400CECF6F8B95CE3DFC157D203708086CF3BE279",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "6E19CC4AD6176534539CC9982A20C9580B03260A",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "C89220701690E3BEFE20356C2B5C70B8F8A53526",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "E5BCD72BCA43136482C2D310AAFD4A5099CB636E",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "3442A3126D2B416752352404EA0A5A7430EB3428",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "0590846A820E79B743ABA7C391DA1330E2ACC8F6",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "239847B1BF3850A53C1C776E618FF2081D5D6CFF",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "E67FAEE5AD616FCA556524BBE65926F812C8EF08",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "E186B3B3B5821B6CD7DAA13ED02C363B80419035",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "5A8632ACEA9D52DEFE390C04D099E1BEB3D4B932",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "C9A9761CD869D3D1EE3271B4D83D3386B173CE92",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "BD8B87796354785CC8C33D0310D551FAFE1F5CCC",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "A07347CE77F6ECB7801F959ECBE290D4026F2555",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "15115D4B568E585D20CC44B94F3B351C2DB915CF",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "AB7B65EA688C791337B4FF361BD3DCB5504EE3F0",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "B26A70A84B9A6BF09E88484CC4E222CB25777C7A",
+			"Assets": [
+				"None"
+			]
+		},
+		{
+			"ShaderMapHash": "7E15BBB99EFD96437BABE25A8DBDF15E157A89D0",
+			"Assets": [
+				"None"
+			]
+		}
+	]
+}
