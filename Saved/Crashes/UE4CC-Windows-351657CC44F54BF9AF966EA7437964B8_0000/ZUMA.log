@@ -1,0 +1,1554 @@
+﻿Log file open, 10/08/25 11:17:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ZUMA
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.310655
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin NiagaraUIRenderer
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 13th Gen Intel(R) Core(TM) i7-13620H, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -AUTH_LOGIN=unused -AUTH_PASSWORD=a7c05be2c625461ea0ce29248038767e -AUTH_TYPE=exchangecode -epicapp=UE_4.27 -epicenv=Prod -EpicPortal -epicusername=Darк_W0lf -epicuserid=79acc0f723574016a379ad36bbd17546 -epiclocale=ru -epicsandboxid=ue
+LogInit: Base Directory: E:/Epic Games/b3/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Saved/Config/Windows/Engine.ini]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:4]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.Mobile.VirtualTextures:0]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.VT.EnableAutoImport:1]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.Mobile.ReflectionCaptureCompression:0]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[vr.VRS.HMDFixedFoveationLevel:0]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2025.10.08-08.17.37:672][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.MeshStreaming:0]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.SkinCache.DefaultBehavior:1]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlightsShadow:0]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.Mobile.AmbientOcclusion:1]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluences:0]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluencesThreshold:8]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.Mobile.PlanarReflectionMode:0]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[r.Mobile.SupportsGen4TAA:0]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Saved/Config/Windows/Engine.ini]
+[2025.10.08-08.17.37:673][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Saved/Config/Windows/Engine.ini]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Saved/Config/Windows/Engine.ini]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2025.10.08-08.17.37:673][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Saved/Config/Windows/Engine.ini]
+[2025.10.08-08.17.37:673][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Saved/Config/Windows/Engine.ini]
+[2025.10.08-08.17.37:679][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Saved/Config/Windows/Scalability.ini]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Saved/Config/Windows/Scalability.ini]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Saved/Config/Windows/Scalability.ini]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Saved/Config/Windows/Scalability.ini]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Saved/Config/Windows/Scalability.ini]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Saved/Config/Windows/Scalability.ini]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2025.10.08-08.17.37:679][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Saved/Config/Windows/Scalability.ini]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Saved/Config/Windows/Scalability.ini]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2025.10.08-08.17.37:680][  0]LogInit: Selected Device Profile: [Windows]
+[2025.10.08-08.17.37:680][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2025.10.08-08.17.37:680][  0]LogHAL: Display: Platform has ~ 16 GB [16869351424 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2025.10.08-08.17.37:680][  0]LogInit: Going up to parent DeviceProfile []
+[2025.10.08-08.17.37:680][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Saved/Config/Windows/Scalability.ini]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Saved/Config/Windows/Scalability.ini]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Saved/Config/Windows/Scalability.ini]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Saved/Config/Windows/Scalability.ini]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Saved/Config/Windows/Scalability.ini]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Saved/Config/Windows/Scalability.ini]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2025.10.08-08.17.37:680][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2025.10.08-08.17.37:681][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:0]]
+[2025.10.08-08.17.37:681][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2025.10.08-08.17.37:681][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2025.10.08-08.17.37:681][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2025.10.08-08.17.37:681][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2025.10.08-08.17.37:681][  0]LogConfig: Setting CVar [[r.SSGI.Quality:1]]
+[2025.10.08-08.17.37:681][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2025.10.08-08.17.37:681][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2025.10.08-08.17.37:681][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2025.10.08-08.17.37:681][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2025.10.08-08.17.37:681][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2025.10.08-08.17.37:681][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2025.10.08-08.17.37:681][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2025.10.08-08.17.37:681][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2025.10.08-08.17.37:681][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2025.10.08-08.17.37:681][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2025.10.08-08.17.37:681][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2025.10.08-08.17.37:681][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2025.10.08-08.17.37:681][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2025.10.08-08.17.37:681][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2025.10.08-08.17.37:681][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Saved/Config/Windows/Scalability.ini]
+[2025.10.08-08.17.37:681][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2025.10.08-08.17.37:681][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2025.10.08-08.17.37:681][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Saved/Config/Windows/Scalability.ini]
+[2025.10.08-08.17.37:681][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2025.10.08-08.17.37:681][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2025.10.08-08.17.37:681][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2025.10.08-08.17.37:681][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2025.10.08-08.17.37:681][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2025.10.08-08.17.37:681][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2025.10.08-08.17.37:681][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2025.10.08-08.17.37:681][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Saved/Config/Windows/Engine.ini]
+[2025.10.08-08.17.37:681][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Saved/Config/Windows/Editor.ini]
+[2025.10.08-08.17.37:681][  0]LogInit: Computer: DESKTOP-QEKB6U1
+[2025.10.08-08.17.37:681][  0]LogInit: User: DarkWolf
+[2025.10.08-08.17.37:681][  0]LogInit: CPU Page size=4096, Cores=10
+[2025.10.08-08.17.37:681][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2025.10.08-08.17.37:681][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2025.10.08-08.17.37:681][  0]LogMemory: Platform Memory Stats for Windows
+[2025.10.08-08.17.37:681][  0]LogMemory: Process Physical Memory: 150.19 MB used, 150.19 MB peak
+[2025.10.08-08.17.37:681][  0]LogMemory: Process Virtual Memory: 133.61 MB used, 133.61 MB peak
+[2025.10.08-08.17.37:681][  0]LogMemory: Physical Memory: 12562.77 MB used,  3525.10 MB free, 16087.87 MB total
+[2025.10.08-08.17.37:681][  0]LogMemory: Virtual Memory: 134188192.00 MB used,  29537.98 MB free, 134217728.00 MB total
+[2025.10.08-08.17.37:687][  0]LogWindows: WindowsPlatformFeatures enabled
+[2025.10.08-08.17.37:729][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2025.10.08-08.17.37:730][  0]LogInit: Using OS detected language (ru-RU).
+[2025.10.08-08.17.37:730][  0]LogInit: Using OS detected locale (ru-RU).
+[2025.10.08-08.17.37:731][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2025.10.08-08.17.37:731][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2025.10.08-08.17.37:731][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2025.10.08-08.17.37:731][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2025.10.08-08.17.37:731][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2025.10.08-08.17.37:731][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2025.10.08-08.17.37:731][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2025.10.08-08.17.37:731][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2025.10.08-08.17.37:732][  0]LogInit: Setting process to per monitor DPI aware
+[2025.10.08-08.17.37:751][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2025.10.08-08.17.37:764][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2025.10.08-08.17.37:764][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2025.10.08-08.17.37:880][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2025.10.08-08.17.38:001][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2025.10.08-08.17.38:001][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2025.10.08-08.17.38:001][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2025.10.08-08.17.38:001][  0]LogD3D11RHI: D3D11 adapters:
+[2025.10.08-08.17.38:263][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 4060 Laptop GPU' (Feature Level 11_0)
+[2025.10.08-08.17.38:263][  0]LogD3D11RHI:       7957/0/8043 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2025.10.08-08.17.38:354][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2025.10.08-08.17.38:354][  0]LogD3D11RHI:       128/0/8043 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2025.10.08-08.17.38:361][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2025.10.08-08.17.38:361][  0]LogD3D11RHI:       0/0/8043 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2025.10.08-08.17.38:361][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2025.10.08-08.17.38:361][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 4060 Laptop GPU
+[2025.10.08-08.17.38:361][  0]LogD3D11RHI:     VendorId    : 10de
+[2025.10.08-08.17.38:361][  0]LogD3D11RHI:     DeviceId    : 28a0
+[2025.10.08-08.17.38:361][  0]LogD3D11RHI:     SubSysId    : a5531558
+[2025.10.08-08.17.38:361][  0]LogD3D11RHI:     Revision    : 00a1
+[2025.10.08-08.17.38:361][  0]LogD3D11RHI:     DedicatedVideoMemory : 8343519232 bytes
+[2025.10.08-08.17.38:361][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2025.10.08-08.17.38:361][  0]LogD3D11RHI:     SharedSystemMemory : 8434675712 bytes
+[2025.10.08-08.17.38:361][  0]LogD3D11RHI:     AdapterLuid : 0 63125
+[2025.10.08-08.17.38:368][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2025.10.08-08.17.38:368][  0]LogD3D11RHI:     GPU DeviceId: 0x28a0 (for the marketing name, search the web for "GPU Device Id")
+[2025.10.08-08.17.38:368][  0]LogWindows: EnumDisplayDevices:
+[2025.10.08-08.17.38:369][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2025.10.08-08.17.38:369][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2025.10.08-08.17.38:369][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2025.10.08-08.17.38:369][  0]LogWindows:    3. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2025.10.08-08.17.38:370][  0]LogWindows:    4. 'NVIDIA GeForce RTX 4060 Laptop GPU' (P:0 D:0)
+[2025.10.08-08.17.38:370][  0]LogWindows:    5. 'NVIDIA GeForce RTX 4060 Laptop GPU' (P:0 D:0)
+[2025.10.08-08.17.38:370][  0]LogWindows:    6. 'NVIDIA GeForce RTX 4060 Laptop GPU' (P:0 D:0)
+[2025.10.08-08.17.38:371][  0]LogWindows:    7. 'NVIDIA GeForce RTX 4060 Laptop GPU' (P:0 D:0)
+[2025.10.08-08.17.38:371][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2025.10.08-08.17.38:371][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 4060 Laptop GPU
+[2025.10.08-08.17.38:371][  0]LogD3D11RHI:   Driver Version: 581.29 (internal:32.0.15.8129, unified:581.29)
+[2025.10.08-08.17.38:371][  0]LogD3D11RHI:      Driver Date: 9-5-2025
+[2025.10.08-08.17.38:371][  0]LogRHI: Texture pool is 5569 MB (70% of 7957 MB)
+[2025.10.08-08.17.38:371][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2025.10.08-08.17.38:371][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 4060 Laptop GPU
+[2025.10.08-08.17.38:371][  0]LogD3D11RHI:     VendorId    : 10de
+[2025.10.08-08.17.38:371][  0]LogD3D11RHI:     DeviceId    : 28a0
+[2025.10.08-08.17.38:371][  0]LogD3D11RHI:     SubSysId    : a5531558
+[2025.10.08-08.17.38:371][  0]LogD3D11RHI:     Revision    : 00a1
+[2025.10.08-08.17.38:371][  0]LogD3D11RHI:     DedicatedVideoMemory : 8343519232 bytes
+[2025.10.08-08.17.38:371][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2025.10.08-08.17.38:371][  0]LogD3D11RHI:     SharedSystemMemory : 8434675712 bytes
+[2025.10.08-08.17.38:371][  0]LogD3D11RHI:     AdapterLuid : 0 63125
+[2025.10.08-08.17.38:560][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2025.10.08-08.17.38:561][  0]LogD3D11RHI: Async texture creation enabled
+[2025.10.08-08.17.38:561][  0]LogD3D11RHI: Array index from any shader is supported
+[2025.10.08-08.17.38:583][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2025.10.08-08.17.38:618][  0]LogRHI: GeForceNow SDK initialized: 1
+[2025.10.08-08.17.39:063][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2025.10.08-08.17.39:092][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2025.10.08-08.17.39:092][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2025.10.08-08.17.39:092][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2025.10.08-08.17.39:092][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2025.10.08-08.17.39:092][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2025.10.08-08.17.39:092][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2025.10.08-08.17.39:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2025.10.08-08.17.39:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2025.10.08-08.17.39:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2025.10.08-08.17.39:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2025.10.08-08.17.39:117][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2025.10.08-08.17.39:117][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2025.10.08-08.17.39:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2025.10.08-08.17.39:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2025.10.08-08.17.39:141][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2025.10.08-08.17.39:146][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2025.10.08-08.17.39:158][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2025.10.08-08.17.39:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2025.10.08-08.17.39:169][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2025.10.08-08.17.39:196][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2025.10.08-08.17.39:196][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2025.10.08-08.17.39:206][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2025.10.08-08.17.39:211][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2025.10.08-08.17.39:217][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2025.10.08-08.17.39:222][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2025.10.08-08.17.39:233][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2025.10.08-08.17.39:233][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2025.10.08-08.17.39:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2025.10.08-08.17.39:251][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2025.10.08-08.17.39:256][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2025.10.08-08.17.39:261][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2025.10.08-08.17.39:261][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2025.10.08-08.17.39:269][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2025.10.08-08.17.39:302][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2025.10.08-08.17.39:339][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2025.10.08-08.17.39:339][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Intermediate/Shaders/WorkingDirectory/8948/).
+[2025.10.08-08.17.39:339][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/DarkWolf/AppData/Local/Temp/UnrealShaderWorkingDir/C6E1463E427C2B21C97B329E663B09EF/'.
+[2025.10.08-08.17.39:339][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2025.10.08-08.17.39:339][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2025.10.08-08.17.39:339][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2025.10.08-08.17.40:171][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2025.10.08-08.17.40:247][  0]LogDerivedDataCache: Loaded boot cache 0.08s 95MB C:/Users/DarkWolf/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2025.10.08-08.17.40:247][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/DarkWolf/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2025.10.08-08.17.40:248][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2025.10.08-08.17.40:248][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2025.10.08-08.17.40:248][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2025.10.08-08.17.40:248][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2025.10.08-08.17.40:270][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2025.10.08-08.17.40:270][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2025.10.08-08.17.40:270][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2025.10.08-08.17.40:281][  0]LogDerivedDataCache: Speed tests for C:/Users/DarkWolf/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2025.10.08-08.17.40:282][  0]LogDerivedDataCache: Display: Performance to C:/Users/DarkWolf/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1324.91MBs, RandomWriteSpeed=84.50MBs. Assigned SpeedClass 'Local'
+[2025.10.08-08.17.40:283][  0]LogDerivedDataCache: Using Local data cache path C:/Users/DarkWolf/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2025.10.08-08.17.40:283][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2025.10.08-08.17.40:283][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2025.10.08-08.17.40:341][  0]LogSlate: Using FreeType 2.10.0
+[2025.10.08-08.17.40:342][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2025.10.08-08.17.40:378][  0]LogAssetRegistry: FAssetRegistry took 0.0042 seconds to start up
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/JapaneseStreet/Maps/JapanStreet.umap is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/JapaneseStreet/Props/Materials/ChainWire_Mat.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/JapaneseStreet/Props/Materials/2_Test_M.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/JapaneseStreet/Props/Materials/Fish_Soup_Mat.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/JapaneseStreet/Props/Materials/Cloth_Set_Mat.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Blueprints/BP_Decal.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Blueprints/BP_Character02.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Blueprints/BP_Fill.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Blueprints/BP_Rotation.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Blueprints/Str_Bottle.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Blueprints/BP_Viscosity.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Blueprints/BP_Table.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Blueprints/BP_Pouring.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character/AnimBP_Character.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Blueprints/BP_Spilling.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Blueprints/BP_VFX_Loop.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Blueprints/BP_Movements.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character/A_ThirdPersonIdle.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character/SK_Mannequin.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character/A_ThirdPersonRun.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character/Materials/MF_GlossyBlack_Latex_UE4.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character/Materials/MF_Plastic_Shiny_Beige_LOGO.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character/Materials/MF_SoftMetal_UE4.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character/SK_Mannequin_Skeleton.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character/SK_Mannequin_PhysicsAsset.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character/Materials/MF_Plastic_Shiny_Beige.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character/Materials/MI_UE4Man_ChestLogo.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character/Textures/T_ML_Aluminum01.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character/Textures/T_ML_Aluminum01_N.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character/Textures/T_ML_Rubber_Blue_01_N.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character/Materials/M_UE4Main_Body.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character/Textures/T_ML_Rubber_Blue_01_D.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character_02/Animations/FirstPersonFire_Montage.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character/Textures/T_UE4Man_Logo_N.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character/Textures/T_UE4_Mannequin_N.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character/Textures/T_UE4_LOGO_CARD.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character/Textures/T_UE4_Mannequin_MAT_MASKA.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character_02/Animations/FirstPerson_Idle.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character_02/Animations/FirstPerson_AnimBP.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character_02/Animations/FirstPerson_Fire.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character_02/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character_02/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character_02/Materials/MaterialLayers/T_ML_Aluminum01.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character_02/Materials/M_UE4Man_Body.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character_02/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character_02/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character_02/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset is too old
+[2025.10.08-08.17.40:738][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character_02/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character_02/Textures/UE4_LOGO_CARD.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character_02/Mesh/SK_Mannequin_Arms_Skeleton.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character_02/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/FPWeapon/Materials/M_FPGun.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character_02/Mesh/SK_Mannequin_Arms.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character_02/Textures/UE4_Mannequin__normals.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character_02/Textures/UE4_Mannequin_MAT_MASKA.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/Character_02/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/FPWeapon/Textures/T_FPGun_M.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Effects/P_Liquid.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/FPWeapon/Textures/T_FPGun_N.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/FPWeapon/Mesh/SK_FPGun.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Effects/P_Splash.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Demo/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/MAP/Overview_MAP.umap is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Effects/P_Ribbon.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/MAP/MAP_Materials/MI_Grey.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/MAP/MAP_Materials/MI_Reservoir.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/MAP/MAP_Materials/MI_Stand.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/MAP/MAP_Materials/M_Tiles_Opaque.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/MAP/MAP_Materials/M_Reservoir.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/MAP/MAP_Materials/MI_Tiles_Opaque_Landscape.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/MAP/MAP_Meshes/Reservoir/SM_Reservoir_Reservoir_02.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/MAP/MAP_Textures/T_Lab.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/MAP/MAP_Meshes/Reservoir/SM_Reservoir_Liquid.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/MAP/MAP_Meshes/Reservoir/SM_Reservoir_Reservoir.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/MAP/MAP_Materials/M_Color.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/MAP/MAP_Textures/T_Tiles.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/MAP/MAP_Materials/M_Stand.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/MAP/MAP_Meshes/SM_Stand_2.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/MI_Drops.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/MAP/MAP_Textures/T_Tiles_NormalMap_N.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/MAP/MAP_Textures/T_Tiles_AO.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/MI_Decal.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/MI_Glass02.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/MI_Glass01.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/MI_Glass03.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/MI_Glass04.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/MI_Glass07.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/MI_Glass08.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/MI_Glass09.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/MI_Glass06.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/MI_Glass05.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/MI_Glass10.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/MI_Glass11.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/MI_Glass13.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/MI_Liquid_08.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/MI_Liquid_09.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/MI_Liquid_06.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/MI_Liquid_01_Lit.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/MI_Liquid_07.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/MI_Liquid_05.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/MI_Glass12.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/MI_Liquid_03.uasset is too old
+[2025.10.08-08.17.40:739][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/MI_Liquid_02_Lit.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/MI_Liquid_03_Lit.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/MI_Liquid_04.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/MI_Liquid_08_Lit.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/MI_Liquid_01.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/MI_Liquid_02.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/MI_Liquid_09_Lit.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/MI_Ribbon_Liquid.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/MI_Liquid_10.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/MI_Liquid_12.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/MI_Liquid_11.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/M_Cork.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/M_Drops.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/M_Glass.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/MI_Splash_01.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/M_Mug.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/M_Liquid.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/M_Liquid_Lit.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/M_Decal_Master.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/M_Splash_Master.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Materials/M_Ribbon_Liquid.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle01/SM_Bottle_Bottle_01.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle01/SM_Bottle_Liquid_01.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle02/SM_Bottle_Stopper_02.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle02/SM_Bottle_Bottle_02.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle02/SM_Bottle_Liquid_02.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle01/SM_Bottle_Stopper_01.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle03/SM_Bottle_Stopper_03.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle03/SM_Bottle_Bottle_03.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle03/SM_Bottle_Liquid_03.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle05/SM_Bottle_Bottle_05.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle05/SM_Bottle_Stopper_05.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle04/SM_Bottle_Stopper_04.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle04/SM_Bottle_Bottle_04.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle04/SM_Bottle_Liquid_04.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle05/SM_Bottle_Liquid_05.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle06/SM_Bottle_Stopper_06.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle06/SM_Bottle_Liquid_06.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle07/SM_Bottle_Liquid_07.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle08/SM_Bottle_Liquid_08.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle07/SM_Bottle_Stopper_07.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle09/SM_Bottle_Stopper_09.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle07/SM_Bottle_Bottle_07.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle08/SM_Bottle_Bottle_08.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle06/SM_Bottle_Bottle_06.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle10/SM_Bottle_Liquid_10.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle10/SM_Bottle_Bottle_10.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle09/SM_Bottle_Bottle_09.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle08/SM_Bottle_Stopper_08.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle11/SM_Bottle_Bottle_11.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle10/SM_Bottle_Stopper_10.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle11/SM_Bottle_Liquid_11.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle12/SM_Bottle_Stopper_12.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle09/SM_Bottle_Liquid_09.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle13/SM_Bottle_Bottle_13.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle12/SM_Bottle_Liquid_12.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle11/SM_Bottle_Stopper_11.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle13/SM_Bottle_Stopper_13.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle12/SM_Bottle_Bottle_12.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Glass02/SM_Glass_Glass_02.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Glass01/SM_Glass_Glass_01.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Glass02/SM_Glass_Liquid_02.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Glass01/SM_Glass_Liquid_01.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Bottle13/SM_Bottle_Liquid_13.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Glass03/SM_Glass_Glass_03.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Glass04/SM_Glass_Glass_04.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Glass03/SM_Glass_Liquid_03.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Glass04/SM_Glass_Liquid_04.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Glass05/SM_Glass_Glass_05.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Glass05/SM_Glass_Liquid_05.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Glass06/SM_Glass_Liquid_06.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Glass08/SM_Glass_Glass_08.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Glass06/SM_Glass_Glass_06.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Glass07/SM_Glass_Glass_07.uasset is too old
+[2025.10.08-08.17.40:740][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Glass09/SM_Glass_Glass_09.uasset is too old
+[2025.10.08-08.17.40:741][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Glass08/SM_Glass_Liquid_08.uasset is too old
+[2025.10.08-08.17.40:741][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Glass09/SM_Glass_Liquid_09.uasset is too old
+[2025.10.08-08.17.40:741][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Glass10/SM_Glass_Liquid_10.uasset is too old
+[2025.10.08-08.17.40:741][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Glass07/SM_Glass_Liquid_07.uasset is too old
+[2025.10.08-08.17.40:741][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Textures/T_Clouds_01.uasset is too old
+[2025.10.08-08.17.40:741][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Textures/T_Clouds_02.uasset is too old
+[2025.10.08-08.17.40:741][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Meshes/Glass10/SM_Glass_Glass_10.uasset is too old
+[2025.10.08-08.17.40:741][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Textures/T_Bubbles.uasset is too old
+[2025.10.08-08.17.40:741][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Textures/T_Drop.uasset is too old
+[2025.10.08-08.17.40:741][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Textures/T_Electricity.uasset is too old
+[2025.10.08-08.17.40:741][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Textures/T_Drop_N.uasset is too old
+[2025.10.08-08.17.40:741][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Textures/T_Glass02_N.uasset is too old
+[2025.10.08-08.17.40:741][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Textures/T_Glass01_N.uasset is too old
+[2025.10.08-08.17.40:741][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Textures/T_Glass04_N.uasset is too old
+[2025.10.08-08.17.40:741][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Textures/T_Glass05_N.uasset is too old
+[2025.10.08-08.17.40:741][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Textures/T_Electricity_04.uasset is too old
+[2025.10.08-08.17.40:741][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Textures/T_Glass03_N.uasset is too old
+[2025.10.08-08.17.40:741][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Textures/T_Glass09_N.uasset is too old
+[2025.10.08-08.17.40:741][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Textures/T_Glass06_N.uasset is too old
+[2025.10.08-08.17.40:741][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Textures/T_Glass07_N.uasset is too old
+[2025.10.08-08.17.40:741][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Textures/T_Glass08_N.uasset is too old
+[2025.10.08-08.17.40:741][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Textures/T_Glass10_N.uasset is too old
+[2025.10.08-08.17.40:741][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Textures/T_Glass11_N.uasset is too old
+[2025.10.08-08.17.40:741][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Textures/T_LiquidDecal.uasset is too old
+[2025.10.08-08.17.40:741][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Textures/T_Glass12_N.uasset is too old
+[2025.10.08-08.17.40:741][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Textures/T_LiquidDecal_N.uasset is too old
+[2025.10.08-08.17.40:741][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Textures/T_Noise.uasset is too old
+[2025.10.08-08.17.40:741][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Textures/T_Liquid_N.uasset is too old
+[2025.10.08-08.17.40:741][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Materials/MI_Coral_Bed_Reef_01a.uasset is too old
+[2025.10.08-08.17.40:741][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Materials/MI_Barnacles_01a.uasset is too old
+[2025.10.08-08.17.40:741][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Materials/MI_Frosted_Grass_Short_01a.uasset is too old
+[2025.10.08-08.17.40:741][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Textures/T_Splash_Erosion.uasset is too old
+[2025.10.08-08.17.40:742][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Materials/MI_Ground_Grass_Ice_01a.uasset is too old
+[2025.10.08-08.17.40:742][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Textures/T_Splash_Erosion_N.uasset is too old
+[2025.10.08-08.17.40:742][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Textures/T_Shape_01.uasset is too old
+[2025.10.08-08.17.40:742][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Textures/T_Splash_Shape.uasset is too old
+[2025.10.08-08.17.40:742][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Materials/MI_Ice_Sheet_Broken_01a.uasset is too old
+[2025.10.08-08.17.40:742][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Materials/MI_Ice_Surface_01a.uasset is too old
+[2025.10.08-08.17.40:742][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Materials/MI_Ice_Surface_01b.uasset is too old
+[2025.10.08-08.17.40:742][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/LiquidMaterials_VFXPack/Textures/T_Voronoi_01.uasset is too old
+[2025.10.08-08.17.40:742][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Materials/MI_Ice_Surface_01c.uasset is too old
+[2025.10.08-08.17.40:742][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Materials/MI_Icicle_Surface_01a.uasset is too old
+[2025.10.08-08.17.40:742][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Materials/MI_Ice_Surface_02a.uasset is too old
+[2025.10.08-08.17.40:742][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Materials/MI_Ice_Wall_01a.uasset is too old
+[2025.10.08-08.17.40:742][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Materials/MI_Pond_Surface_Debris_01a.uasset is too old
+[2025.10.08-08.17.40:742][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Materials/MI_Seaweed_01a.uasset is too old
+[2025.10.08-08.17.40:742][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Materials/MI_icicle_Surface_02a.uasset is too old
+[2025.10.08-08.17.40:742][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Materials/MI_Pond_Surface_Debris_01b.uasset is too old
+[2025.10.08-08.17.40:742][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Materials/MI_Sea_Waves_01a.uasset is too old
+[2025.10.08-08.17.40:742][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Materials/MI_Snow_Melt_01a.uasset is too old
+[2025.10.08-08.17.40:742][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Materials/MI_Snowy_Road_01a.uasset is too old
+[2025.10.08-08.17.40:742][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Materials/MI_Snow_Surface_01a.uasset is too old
+[2025.10.08-08.17.40:742][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Materials/MI_Snow_Ground_Dirty_01a.uasset is too old
+[2025.10.08-08.17.40:742][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Materials/MI_Seafoam_01a.uasset is too old
+[2025.10.08-08.17.40:742][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Materials/MI_Snow_Surface_01b.uasset is too old
+[2025.10.08-08.17.40:742][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Materials/MI_Snow_Surface_02a.uasset is too old
+[2025.10.08-08.17.40:742][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Materials/MI_Snow_Surface_01c.uasset is too old
+[2025.10.08-08.17.40:742][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Materials/MI_Water_01a.uasset is too old
+[2025.10.08-08.17.40:742][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Materials/MI_Snow_Trampled_01a.uasset is too old
+[2025.10.08-08.17.40:742][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Materials/MI_Tide_Pool_01a.uasset is too old
+[2025.10.08-08.17.40:742][  0]LogAssetRegistry: Error: Package C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Materials/MI_Water_Dirty_02a.uasset is too old
+[2025.10.08-08.17.40:742][  0]LogInit: Selected Device Profile: [Windows]
+[2025.10.08-08.17.40:742][  0]LogInit: Active device profile: [000002E25928BC00][000002E2563CB840 49] Windows
+[2025.10.08-08.17.40:742][  0]LogInit: Profiles: [000002E25928BC00][000002E2563CB840 49] Windows, [000002E259290500][000002E2571479C0 49] WindowsNoEditor, [000002E259288600][000002E25714BB40 49] WindowsServer, [000002E259293300][000002E25714E140 49] WindowsClient, [000002E25928B200][000002E2571562C0 49] IOS, [000002E259291000][000002E25715A440 49] iPadAir, [000002E259288F00][000002E256D225C0 49] iPadAir2, [000002E259230200][000002E2563CE840 49] IPadPro, [000002E259230300][000002E256D26880 49] iPadAir3, [000002E25928AB00][000002E256D2A9C0 49] iPadAir4, [000002E259233600][000002E256D2EB00 49] iPadMini2, [000002E259289400][000002E256D36C80 49] iPadMini3, [000002E259231400][000002E256D3AE00 49] iPadMini4, [000002E25928A300][000002E256D46F80 49] iPadMini5, [000002E259223A00][000002E2568FB240 49] iPhone6, [000002E259223B00][000002E256D4B280 49] iPodTouch6, [000002E259233100][000002E256913540 49] iPhone7, [000002E259233000][000002E256907580 49] iPodTouch7, [000002E259220A00][000002E256917700 49] iPhone5S, [000002E259231300][000002E25691B880 49] iPhone6Plus, [000002E259222E00][000002E25691FA00 49] iPhone6S, [000002E259230900][000002E256923B80 49] iPhone6SPlus, [000002E259221300][000002E256926180 49] iPhone7Plus, [000002E259231200][000002E25692A300 49] iPhoneSE, [000002E259222500][000002E25692E480 49] iPhone8, [000002E259231A00][000002E256932600 49] iPhone8Plus, [000002E259223600][000002E256936780 49] iPhoneX, [000002E259232200][000002E25693A900 49] iPhoneXS, [000002E259220B00][000002E256D32A40 49] iPhoneXSMax, [000002E259232400][000002E256496B80 49] iPhoneXR, [000002E259222600][000002E25649ACC0 49] iPhone11, [000002E259231900][000002E2564A2E40 49] iPhone11Pro, [000002E259221500][000002E2564A6FC0 49] iPhone11ProMax, [000002E259231C00][000002E2564AB140 49] iPhoneSE2, [000002E259223E00][000002E2564AF2C0 49] iPhone12Mini, [000002E259232700][000002E2564B3440 49] iPhone12, [000002E259222C00][000002E2564B75C0 49] iPhone12Pro, [000002E259232C00][000002E2564BB740 49] iPhone12ProMax, [000002E259222700][000002E2564BF8C0 49] iPadPro105, [000002E259233A00][000002E2564CDA40 49] iPadPro129, [000002E259223200][000002E2564D1BC0 49] iPadPro97, [000002E259232A00][000002E256D741C0 49] iPadPro2_129, [000002E259223C00][000002E256D78340 49] iPad5, [000002E259233E00][000002E256D7C4C0 49] iPad6, [000002E259222300][000002E256D80640 49] iPad7, [000002E259231E00][000002E256D847C0 49] iPad8, [000002E259223F00][000002E256D88940 49] iPadPro11, [000002E259231100][000002E256DCCAC0 49] iPadPro2_11, [000002E259221900][000002E25649EC00 49] iPadPro3_129, [000002E259231D00][000002E256DD0D40 49] iPadPro4_129, [000002E259223700][000002E256DD4E80 49] AppleTV, [000002E259233200][000002E256DE4FC0 49] AppleTV4K, [000002E259222B00][000002E2562AF140 49] TVOS, [000002E259233900][000002E2568732C0 49] Mac, [000002E259221200][000002E24B12F440 49] MacClient, [000002E259232F00][000002E24B1335C0 49] MacNoEditor, [000002E259221A00][000002E24B13B740 49] MacServer, [000002E259231B00][000002E24B13F8C0 49] Linux, [000002E259221700][000002E24B143A40 49] LinuxAArch64, [000002E259232300][000002E24B147BC0 49] LinuxNoEditor, [000002E259221400][000002E24B14A1C0 49] LinuxAArch64NoEditor, [000002E259233400][000002E24B14E340 49] LinuxClient, [000002E259220300][000002E24B1524C0 49] LinuxAArch64Client, [000002E259230C00][000002E24B156640 49] LinuxServer, [000002E259291E00][000002E24A6727C0 49] LinuxAArch64Server, [000002E259338100][000002E24A676940 49] Android, [000002E259292B00][000002E24A67AAC0 49] Android_Low, [000002E259338300][000002E24A67EC40 49] Android_Mid, [000002E259293000][000002E2562AAD80 49] Android_High, [000002E259339F00][000002E24A682EC0 49] Android_Default, [000002E259292F00][000002E24A687000 49] Android_Adreno4xx, [000002E259338D00][000002E24A68B140 49] Android_Adreno5xx_Low, [000002E259292500][000002E2568872C0 49] Android_Adreno5xx, [000002E259339000][000002E25688B440 49] Android_Adreno6xx, [000002E259293700][000002E25688F5C0 49] Android_Adreno6xx_Vulkan, [000002E25933A400][000002E256893740 49] Android_Mali_T6xx, [000002E259290C00][000002E2568978C0 49] Android_Mali_T7xx, [000002E259339300][000002E25689BA40 49] Android_Mali_T8xx, [000002E259291800][000002E25689FBC0 49] Android_Mali_G71, [000002E259339600][000002E2568A21C0 49] Android_Mali_G72, [000002E259291100][000002E2568A6340 49] Android_Mali_G72_Vulkan, [000002E259339500][000002E2568AA4C0 49] Android_Mali_G76, [000002E259293200][000002E2568AE640 49] Android_Mali_G76_Vulkan, [000002E259339B00][000002E2568B27C0 49] Android_Mali_G77, [000002E259291300][000002E2568B6940 49] Android_Mali_G77_Vulkan, [000002E25933A800][000002E2568BAAC0 49] Android_Mali_G78, [000002E259293100][000002E2568BEC40 49] Android_Mali_G78_Vulkan, [000002E25933AE00][000002E2568C2DC0 49] Android_Mali_G710, [000002E259293B00][000002E2568C6F40 49] Android_Mali_G710_Vulkan, [000002E25933A200][000002E256883080 49] Android_Vulkan_SM5, [000002E259232800][000002E2568CB1C0 49] Android_PowerVR_G6xxx, [000002E259339200][000002E2568CF300 49] Android_PowerVR_GT7xxx, [000002E259230F00][000002E2568D7480 49] Android_PowerVR_GE8xxx, [000002E259338400][000002E2568DB600 49] Android_PowerVR_GM9xxx, [000002E259233B00][000002E2568DF780 49] Android_PowerVR_GM9xxx_Vulkan, [000002E25933A000][000002E2568E3900 49] Android_TegraK1, [000002E259230700][000002E2568E7A80 49] Android_Unknown_Vulkan, [000002E259339D00][000002E2568EBC00 49] Lumin, [000002E259231F00][000002E2568EE200 49] Lumin_Desktop, [000002E259339C00][000002E2568F2380 49] HoloLens, 
+[2025.10.08-08.17.41:000][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2025.10.08-08.17.41:000][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2025.10.08-08.17.41:000][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2025.10.08-08.17.41:000][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2025.10.08-08.17.41:000][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2025.10.08-08.17.41:029][  0]LogNetVersion: ZUMA 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 205360071)
+[2025.10.08-08.17.42:007][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2025.10.08-08.17.42:145][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2025.10.08-08.17.42:158][  0]LogUObjectArray: 17179 objects as part of root set at end of initial load.
+[2025.10.08-08.17.42:158][  0]LogUObjectAllocator: 4302256 out of 0 bytes used by permanent object pool.
+[2025.10.08-08.17.42:158][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2025.10.08-08.17.42:723][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 7F5D63E14C6F53E021B7458BBFD90313 | Instance: 4528EBDA4E83C3D6AC1DDF99F516A6F3 (DESKTOP-QEKB6U1-8948).
+[2025.10.08-08.17.42:935][  0]LogPython: Using Python 3.7.7
+[2025.10.08-08.17.43:883][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2025.10.08-08.17.43:893][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2025.10.08-08.17.44:190][  0]SourceControl: Source control is disabled
+[2025.10.08-08.17.44:190][  0]SourceControl: Source control is disabled
+[2025.10.08-08.17.44:196][  0]SourceControl: Source control is disabled
+[2025.10.08-08.17.44:215][  0]LogUProjectInfo: Found projects:
+[2025.10.08-08.17.44:232][  0]SourceControl: Source control is disabled
+[2025.10.08-08.17.44:267][  0]SourceControl: Source control is disabled
+[2025.10.08-08.17.44:697][  0]LogOpenImageDenoise: OIDN starting up
+[2025.10.08-08.17.44:817][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2025.10.08-08.17.44:867][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.10.08-08.17.44:867][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.10.08-08.17.45:159][  0]LogCollectionManager: Loaded 0 collections in 0.001354 seconds
+[2025.10.08-08.17.45:167][  0]LogFileCache: Scanning file cache for directory 'C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Saved/Collections/' took 0.00s
+[2025.10.08-08.17.45:167][  0]LogFileCache: Scanning file cache for directory 'C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Developers/DarkWolf/Collections/' took 0.00s
+[2025.10.08-08.17.45:167][  0]LogFileCache: Scanning file cache for directory 'C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Collections/' took 0.00s
+[2025.10.08-08.17.45:205][  0]LogOcInput: OculusInput pre-init called
+[2025.10.08-08.17.45:764][  0]LogEngine: Initializing Engine...
+[2025.10.08-08.17.45:787][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2025.10.08-08.17.45:788][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2025.10.08-08.17.45:789][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2025.10.08-08.17.45:791][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2025.10.08-08.17.45:999][  0]LogInit: Initializing FReadOnlyCVARCache
+[2025.10.08-08.17.46:019][  0]LogAIModule: Creating AISystem for world Untitled
+[2025.10.08-08.17.46:023][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2025.10.08-08.17.46:031][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2025.10.08-08.17.46:032][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2025.10.08-08.17.46:032][  0]LogAudio: Display: Audio Device Manager Initialized
+[2025.10.08-08.17.46:032][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2025.10.08-08.17.46:032][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.08-08.17.46:032][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.08-08.17.46:032][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.08-08.17.46:032][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.08-08.17.46:032][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.08-08.17.46:033][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.10.08-08.17.46:033][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.08-08.17.46:033][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.08-08.17.46:033][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.08-08.17.46:033][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.08-08.17.46:033][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.08-08.17.46:033][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2025.10.08-08.17.46:055][  0]LogAudioMixer: Display: 0: FrontLeft
+[2025.10.08-08.17.46:055][  0]LogAudioMixer: Display: 1: FrontRight
+[2025.10.08-08.17.46:528][  0]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2025.10.08-08.17.46:533][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.08-08.17.46:536][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.08-08.17.46:536][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.08-08.17.46:538][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.10.08-08.17.46:539][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.10.08-08.17.46:539][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.10.08-08.17.46:540][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.10.08-08.17.46:540][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.10.08-08.17.46:540][  0]LogInit: FAudioDevice initialized.
+[2025.10.08-08.17.46:540][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2025.10.08-08.17.46:541][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2025.10.08-08.17.46:673][  0]LogDerivedDataCache: Saved boot cache 0.13s 95MB C:/Users/DarkWolf/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2025.10.08-08.17.46:674][  0]LogInit: Texture streaming: Enabled
+[2025.10.08-08.17.46:701][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2025.10.08-08.17.46:709][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2025.10.08-08.17.46:710][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2025.10.08-08.17.46:714][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2025.10.08-08.17.46:773][  0]LogInit: Transaction tracking system initialized
+[2025.10.08-08.17.46:819][  0]BlueprintLog: New page: Editor Load
+[2025.10.08-08.17.46:942][  0]LocalizationService: Localization service is disabled
+[2025.10.08-08.17.46:991][  0]TimingProfiler: Initialize
+[2025.10.08-08.17.46:991][  0]TimingProfiler: OnSessionChanged
+[2025.10.08-08.17.46:991][  0]LoadingProfiler: Initialize
+[2025.10.08-08.17.46:991][  0]LoadingProfiler: OnSessionChanged
+[2025.10.08-08.17.46:991][  0]NetworkingProfiler: Initialize
+[2025.10.08-08.17.46:991][  0]NetworkingProfiler: OnSessionChanged
+[2025.10.08-08.17.46:991][  0]MemoryProfiler: Initialize
+[2025.10.08-08.17.46:992][  0]MemoryProfiler: OnSessionChanged
+[2025.10.08-08.17.48:041][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2025.10.08-08.17.48:041][  0]LogCook: Display: Mobile HDR setting 1
+[2025.10.08-08.17.48:468][  0]LogFileCache: Scanning file cache for directory 'C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/' took 0.18s
+[2025.10.08-08.17.48:908][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2025.10.08-08.17.48:914][  0]SourceControl: Source control is disabled
+[2025.10.08-08.17.48:914][  0]LogUnrealEdMisc: Loading editor; pre map load, took 12.504
+[2025.10.08-08.17.48:914][  0]Cmd: MAP LOAD FILE="C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Backend/TestLevel/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.10.08-08.17.48:914][  0]LightingResults: New page: Lighting Build
+[2025.10.08-08.17.48:917][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.10.08-08.17.48:917][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.08-08.17.48:917][  0]MapCheck: New page: Map Check
+[2025.10.08-08.17.48:917][  0]LightingResults: New page: Lighting Build
+[2025.10.08-08.17.48:929][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.08-08.17.48:934][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.10.08-08.17.50:966][  0]LogMaterial: Display: Missing cached shadermap for MasterMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: B8015CF64F9103E4BE7E21A119DE3F230536CDAC), compiling. 
+[2025.10.08-08.17.51:203][  0]LogShaderCompilers: Display: Submitted 205 shader compile jobs with 'Low' priority
+[2025.10.08-08.17.51:246][  0]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 205
+[2025.10.08-08.17.51:246][  0]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 195
+[2025.10.08-08.17.51:246][  0]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 185
+[2025.10.08-08.17.51:246][  0]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 175
+[2025.10.08-08.17.51:246][  0]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 165
+[2025.10.08-08.17.51:246][  0]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 155
+[2025.10.08-08.17.51:246][  0]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 145
+[2025.10.08-08.17.51:246][  0]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 135
+[2025.10.08-08.17.51:246][  0]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 125
+[2025.10.08-08.17.51:246][  0]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 115
+[2025.10.08-08.17.51:246][  0]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 105
+[2025.10.08-08.17.51:246][  0]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 95
+[2025.10.08-08.17.51:246][  0]LogShaderCompilers: Display: Worker (13/13): shaders left to compile 85
+[2025.10.08-08.17.51:246][  0]LogShaderCompilers: Display: Started 130 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.17.51:246][  0]LogMaterial: Display: Missing cached shadermap for M_FakeFog in PCD3D_SM5, Default, SM5 (DDC key hash: 19E71857867CC8309C5B4444257AAA4F992EF76C), compiling. 
+[2025.10.08-08.17.51:607][  0]LogShaderCompilers: Display: Submitted 160 shader compile jobs with 'Low' priority
+[2025.10.08-08.17.51:770][  0]LogMaterial: Display: Missing cached shadermap for dfdf in PCD3D_SM5, Default, SM5 (DDC key hash: 79A22D0BFD3CC59DE48728B8FC94ED0FE94BA20D), compiling. 
+[2025.10.08-08.17.51:812][  0]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2025.10.08-08.17.52:444][  0]LogMaterial: Display: Missing cached shadermap for Stone_008 in PCD3D_SM5, Default, SM5 (DDC key hash: 2B2E68708E1FE08593CDC747C030274F1DF5C6F8), compiling. 
+[2025.10.08-08.17.52:501][  0]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2025.10.08-08.17.53:358][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestLevel'.
+[2025.10.08-08.17.53:364][  0]LogAIModule: Creating AISystem for world TestLevel
+[2025.10.08-08.17.53:429][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Backend/TestLevel/TestUnderLevel) is flushing async loading
+[2025.10.08-08.17.53:429][  0]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2025.10.08-08.17.53:455][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.10.08-08.17.53:538][  0]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2025.10.08-08.17.53:543][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.10.08-08.17.53:545][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,826ms to complete.
+[2025.10.08-08.17.53:545][  0]LogFileHelpers: Loading map 'TestLevel' took 4.631
+[2025.10.08-08.17.53:552][  0]LogUnrealEdMisc: Total Editor Startup Time, took 17.142
+[2025.10.08-08.17.54:187][  0]LogSlate: Took 0.000830 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.08-08.17.58:810][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2025.10.08-08.17.59:382][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.08-08.17.59:415][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.08-08.17.59:446][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.08-08.17.59:476][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.08-08.17.59:611][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0526 seconds. Added 3825 classes and 931 folders.
+[2025.10.08-08.17.59:656][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2025.10.08-08.17.59:676][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2025.10.08-08.17.59:677][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.10.08-08.17.59:677][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2025.10.08-08.17.59:679][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Games/b3/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2025.10.08-08.17.59:679][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Games/b3/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2025.10.08-08.17.59:680][  0]LogPakFile: OnPakFileMounted2Time == 0.002976
+[2025.10.08-08.17.59:691][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2025.10.08-08.17.59:692][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.10.08-08.17.59:692][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2025.10.08-08.17.59:692][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Games/b3/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.10.08-08.17.59:692][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Games/b3/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2025.10.08-08.17.59:692][  0]LogPakFile: OnPakFileMounted2Time == 0.000241
+[2025.10.08-08.17.59:699][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2025.10.08-08.17.59:699][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.10.08-08.17.59:699][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2025.10.08-08.17.59:700][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Games/b3/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2025.10.08-08.17.59:700][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Games/b3/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2025.10.08-08.17.59:700][  0]LogPakFile: OnPakFileMounted2Time == 0.000160
+[2025.10.08-08.17.59:706][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2025.10.08-08.17.59:706][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.10.08-08.17.59:706][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2025.10.08-08.17.59:707][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Games/b3/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2025.10.08-08.17.59:707][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Games/b3/UE_4.27/FeaturePacks/StarterContent.upack)
+[2025.10.08-08.17.59:707][  0]LogPakFile: OnPakFileMounted2Time == 0.000255
+[2025.10.08-08.17.59:713][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2025.10.08-08.17.59:713][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.10.08-08.17.59:713][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2025.10.08-08.17.59:713][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2025.10.08-08.17.59:714][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2025.10.08-08.17.59:714][  0]LogPakFile: OnPakFileMounted2Time == 0.000384
+[2025.10.08-08.17.59:721][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2025.10.08-08.17.59:721][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.10.08-08.17.59:721][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2025.10.08-08.17.59:721][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.10.08-08.17.59:723][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2025.10.08-08.17.59:723][  0]LogPakFile: OnPakFileMounted2Time == 0.000661
+[2025.10.08-08.17.59:729][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2025.10.08-08.17.59:729][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.10.08-08.17.59:729][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2025.10.08-08.17.59:729][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2025.10.08-08.17.59:729][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2025.10.08-08.17.59:729][  0]LogPakFile: OnPakFileMounted2Time == 0.000203
+[2025.10.08-08.17.59:737][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2025.10.08-08.17.59:737][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.10.08-08.17.59:738][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2025.10.08-08.17.59:738][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.10.08-08.17.59:738][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2025.10.08-08.17.59:738][  0]LogPakFile: OnPakFileMounted2Time == 0.000164
+[2025.10.08-08.17.59:744][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2025.10.08-08.17.59:744][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.10.08-08.17.59:744][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2025.10.08-08.17.59:744][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.10.08-08.17.59:745][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2025.10.08-08.17.59:745][  0]LogPakFile: OnPakFileMounted2Time == 0.000189
+[2025.10.08-08.17.59:755][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2025.10.08-08.17.59:756][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.10.08-08.17.59:756][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2025.10.08-08.17.59:756][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2025.10.08-08.17.59:756][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2025.10.08-08.17.59:756][  0]LogPakFile: OnPakFileMounted2Time == 0.000178
+[2025.10.08-08.17.59:762][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2025.10.08-08.17.59:762][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.10.08-08.17.59:762][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2025.10.08-08.17.59:762][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.10.08-08.17.59:762][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2025.10.08-08.17.59:762][  0]LogPakFile: OnPakFileMounted2Time == 0.000255
+[2025.10.08-08.17.59:769][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2025.10.08-08.17.59:769][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.10.08-08.17.59:769][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2025.10.08-08.17.59:769][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2025.10.08-08.17.59:769][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2025.10.08-08.17.59:769][  0]LogPakFile: OnPakFileMounted2Time == 0.000221
+[2025.10.08-08.17.59:778][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2025.10.08-08.17.59:778][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.10.08-08.17.59:778][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2025.10.08-08.17.59:778][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.10.08-08.17.59:778][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2025.10.08-08.17.59:778][  0]LogPakFile: OnPakFileMounted2Time == 0.000199
+[2025.10.08-08.17.59:784][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2025.10.08-08.17.59:784][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.10.08-08.17.59:784][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2025.10.08-08.17.59:784][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2025.10.08-08.17.59:784][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2025.10.08-08.17.59:784][  0]LogPakFile: OnPakFileMounted2Time == 0.000147
+[2025.10.08-08.17.59:790][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2025.10.08-08.17.59:790][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.10.08-08.17.59:790][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2025.10.08-08.17.59:790][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.10.08-08.17.59:790][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2025.10.08-08.17.59:790][  0]LogPakFile: OnPakFileMounted2Time == 0.000240
+[2025.10.08-08.17.59:798][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2025.10.08-08.17.59:798][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.10.08-08.17.59:798][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2025.10.08-08.17.59:798][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2025.10.08-08.17.59:798][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2025.10.08-08.17.59:798][  0]LogPakFile: OnPakFileMounted2Time == 0.000154
+[2025.10.08-08.17.59:805][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2025.10.08-08.17.59:805][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.10.08-08.17.59:805][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2025.10.08-08.17.59:806][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.10.08-08.17.59:806][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2025.10.08-08.17.59:806][  0]LogPakFile: OnPakFileMounted2Time == 0.000154
+[2025.10.08-08.17.59:812][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2025.10.08-08.17.59:812][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.10.08-08.17.59:812][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2025.10.08-08.17.59:812][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2025.10.08-08.17.59:812][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2025.10.08-08.17.59:812][  0]LogPakFile: OnPakFileMounted2Time == 0.000179
+[2025.10.08-08.17.59:818][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2025.10.08-08.17.59:818][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.10.08-08.17.59:818][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2025.10.08-08.17.59:818][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.10.08-08.17.59:818][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2025.10.08-08.17.59:818][  0]LogPakFile: OnPakFileMounted2Time == 0.000153
+[2025.10.08-08.17.59:825][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2025.10.08-08.17.59:825][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.10.08-08.17.59:825][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2025.10.08-08.17.59:826][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2025.10.08-08.17.59:826][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2025.10.08-08.17.59:826][  0]LogPakFile: OnPakFileMounted2Time == 0.000162
+[2025.10.08-08.17.59:832][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2025.10.08-08.17.59:832][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.10.08-08.17.59:832][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2025.10.08-08.17.59:833][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.10.08-08.17.59:833][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2025.10.08-08.17.59:833][  0]LogPakFile: OnPakFileMounted2Time == 0.000191
+[2025.10.08-08.17.59:839][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2025.10.08-08.17.59:839][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.10.08-08.17.59:839][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2025.10.08-08.17.59:839][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2025.10.08-08.17.59:839][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2025.10.08-08.17.59:839][  0]LogPakFile: OnPakFileMounted2Time == 0.000152
+[2025.10.08-08.17.59:846][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2025.10.08-08.17.59:846][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.10.08-08.17.59:846][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2025.10.08-08.17.59:846][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2025.10.08-08.17.59:846][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2025.10.08-08.17.59:846][  0]LogPakFile: OnPakFileMounted2Time == 0.000152
+[2025.10.08-08.17.59:852][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2025.10.08-08.17.59:853][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.10.08-08.17.59:853][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2025.10.08-08.17.59:853][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.10.08-08.17.59:853][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2025.10.08-08.17.59:853][  0]LogPakFile: OnPakFileMounted2Time == 0.000142
+[2025.10.08-08.17.59:859][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2025.10.08-08.17.59:859][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.10.08-08.17.59:859][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2025.10.08-08.17.59:859][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.10.08-08.17.59:859][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2025.10.08-08.17.59:859][  0]LogPakFile: OnPakFileMounted2Time == 0.000173
+[2025.10.08-08.17.59:865][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2025.10.08-08.17.59:865][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.10.08-08.17.59:865][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2025.10.08-08.17.59:865][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.10.08-08.17.59:865][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Games/b3/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2025.10.08-08.17.59:865][  0]LogPakFile: OnPakFileMounted2Time == 0.000159
+[2025.10.08-08.18.00:402][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2025.10.08-08.18.00:452][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0011 seconds. Added 2 classes and 0 folders.
+[2025.10.08-08.18.01:115][  0]LogSlate: Took 0.003293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.08-08.18.01:124][  0]LogSlate: Took 0.000860 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.08-08.18.01:628][  0]LogRenderer: Reallocating scene render targets to support 1144x596 Format 9 NumSamples 1 (Frame:1).
+[2025.10.08-08.18.04:181][  0]LogSlate: Took 0.003864 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.10.08-08.18.06:865][  0]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 267
+[2025.10.08-08.18.06:865][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.06:865][  0]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 257
+[2025.10.08-08.18.06:865][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.06:865][  0]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 247
+[2025.10.08-08.18.06:865][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.06:865][  0]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 237
+[2025.10.08-08.18.06:865][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.06:895][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2025.10.08-08.18.06:896][  0]LogLoad: (Engine Initialization) Total time: 30.49 seconds
+[2025.10.08-08.18.06:896][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2025.10.08-08.18.10:576][  0]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 227
+[2025.10.08-08.18.10:576][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.10:576][  0]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 217
+[2025.10.08-08.18.10:576][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.10:576][  0]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 207
+[2025.10.08-08.18.10:576][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.10:576][  0]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 197
+[2025.10.08-08.18.10:576][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.10:577][  0]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 187
+[2025.10.08-08.18.10:577][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.10:577][  0]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 177
+[2025.10.08-08.18.10:577][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.10:667][  0]LogContentStreaming: Texture pool size now 600 MB
+[2025.10.08-08.18.12:172][  2]LogSlate: Took 0.000764 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.10.08-08.18.13:353][  7]LogAssetRegistry: Asset discovery search completed in 32.9771 seconds
+[2025.10.08-08.18.13:382][  7]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2025.10.08-08.18.16:860][118]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 167
+[2025.10.08-08.18.16:861][118]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.17:810][155]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 157
+[2025.10.08-08.18.17:810][155]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.24:973][442]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 147
+[2025.10.08-08.18.24:973][442]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.25:271][453]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 137
+[2025.10.08-08.18.25:271][453]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.28:113][538]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 127
+[2025.10.08-08.18.28:113][538]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.29:188][591]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 117
+[2025.10.08-08.18.29:188][591]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.33:549][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 107
+[2025.10.08-08.18.33:549][754]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.34:195][785]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 98
+[2025.10.08-08.18.34:195][785]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.34:381][794]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 89
+[2025.10.08-08.18.34:381][794]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.37:224][908]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 81
+[2025.10.08-08.18.37:225][908]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.38:622][942]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 74
+[2025.10.08-08.18.38:622][942]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.41:782][ 24]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 67
+[2025.10.08-08.18.41:782][ 24]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.41:987][ 30]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 61
+[2025.10.08-08.18.41:987][ 30]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.46:526][155]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 55
+[2025.10.08-08.18.46:526][155]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.46:526][155]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 50
+[2025.10.08-08.18.46:526][155]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.48:013][199]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 45
+[2025.10.08-08.18.48:013][199]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.49:010][224]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/BETA/Stone_008.Stone_008
+[2025.10.08-08.18.49:026][224]LogMaterial: Display: Missing cached shadermap for Stone_008 in PCD3D_SM5, Default, SM5 (DDC key hash: 120586DA3CBE470E743126E1603B88E7E1865B70), compiling. 
+[2025.10.08-08.18.49:129][224]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2025.10.08-08.18.49:466][224]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2025.10.08-08.18.50:279][224]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 41
+[2025.10.08-08.18.50:279][224]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.50:279][224]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 37
+[2025.10.08-08.18.50:279][224]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.50:282][224]LogMaterial: Display: Missing cached shadermap for Stone_008 in PCD3D_SM5, Default, SM5 (DDC key hash: A10E20B58CCF56C48EAAA44FCB615AD9B8D5C976), compiling. 
+[2025.10.08-08.18.50:299][224]LogMaterial: Display: Missing cached shadermap for Stone_008 in PCD3D_SM5, Default, SM5 (DDC key hash: B821C7FB0EEDD2EBA8A4C02F70262DBAC16FCA01), compiling. 
+[2025.10.08-08.18.50:310][224]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 852530F9D88742BBE43D4466EF00AA4960BE4894), compiling. 
+[2025.10.08-08.18.50:317][224]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1D40C2033B0D52DBD2014DF636C72EE2AEC2692F), compiling. 
+[2025.10.08-08.18.50:323][224]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 734F4956E73F6DA3E404C86F0E7825AC4E6EB59E), compiling. 
+[2025.10.08-08.18.50:330][224]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 69E1E8566018D91015B788B8CEA0A5C313758EB5), compiling. 
+[2025.10.08-08.18.52:762][224]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 33
+[2025.10.08-08.18.52:762][224]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.52:762][224]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 30
+[2025.10.08-08.18.52:762][224]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.52:762][224]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 27
+[2025.10.08-08.18.52:763][224]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.52:763][224]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 24
+[2025.10.08-08.18.52:763][224]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.52:763][224]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 21
+[2025.10.08-08.18.52:763][224]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.52:763][224]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 19
+[2025.10.08-08.18.52:763][224]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 17
+[2025.10.08-08.18.52:763][224]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2025.10.08-08.18.52:763][224]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.52:763][224]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.08-08.18.52:763][224]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.08-08.18.52:763][224]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2025.10.08-08.18.52:783][224]LogSlate: Took 0.000628 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.08-08.18.53:030][224]LogSlate: Took 0.002340 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.08-08.18.54:079][225]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2025.10.08-08.18.54:079][225]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2025.10.08-08.18.54:079][225]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2025.10.08-08.18.54:079][225]MaterialEditorStats: Texture samplers: 5/16
+[2025.10.08-08.18.54:079][225]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.08-08.18.54:079][225]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2025.10.08-08.18.54:101][225]LogSlate: Took 0.002660 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.10.08-08.18.54:910][235]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2025.10.08-08.18.54:911][235]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2025.10.08-08.18.55:174][246]LogSlate: Window 'Stone_008' being destroyed
+[2025.10.08-08.18.55:275][250]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2025.10.08-08.18.55:275][250]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.55:712][262]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 11
+[2025.10.08-08.18.55:712][262]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.56:506][289]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2025.10.08-08.18.56:506][289]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.56:742][299]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 9
+[2025.10.08-08.18.56:742][299]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.56:967][305]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2025.10.08-08.18.56:968][305]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.57:451][323]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2025.10.08-08.18.57:451][323]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.57:529][325]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 6
+[2025.10.08-08.18.57:530][325]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.57:612][327]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2025.10.08-08.18.57:613][327]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.58:291][353]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2025.10.08-08.18.58:291][353]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.58:451][357]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2025.10.08-08.18.58:451][357]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.58:999][377]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2025.10.08-08.18.58:999][377]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.18.59:162][382]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2025.10.08-08.18.59:163][382]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2025.10.08-08.19.18:713][510]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2025.10.08-08.19.18:713][510]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2025.10.08-08.19.18:713][510]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2025.10.08-08.19.18:713][510]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2025.10.08-08.19.18:731][511]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2025.10.08-08.19.18:731][511]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2025.10.08-08.19.18:731][511]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2025.10.08-08.19.18:731][511]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2025.10.08-08.19.18:731][511]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2025.10.08-08.19.18:731][511]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2025.10.08-08.19.18:731][511]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2025.10.08-08.19.18:731][511]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2025.10.08-08.19.33:209][331]LogContentBrowser: Deferred new asset file creation: Stone_008_Inst
+[2025.10.08-08.19.33:231][331]LogContentBrowser: Creating deferred item: Stone_008_Inst
+[2025.10.08-08.19.34:259][393]LogContentBrowser: Attempting asset rename: Stone_008_Inst -> Stone_008_Inst
+[2025.10.08-08.19.34:262][393]LogContentBrowser: End creating deferred item Stone_008_Inst
+[2025.10.08-08.19.35:782][476]LogContentBrowser: Deferred new asset file creation: Stone_008_Inst_Inst
+[2025.10.08-08.19.35:811][476]LogContentBrowser: Creating deferred item: Stone_008_Inst_Inst
+[2025.10.08-08.19.36:299][506]LogContentBrowser: Attempting asset rename: Stone_008_Inst_Inst -> Stone_008_Inst_Inst
+[2025.10.08-08.19.36:300][506]LogContentBrowser: End creating deferred item Stone_008_Inst_Inst
+[2025.10.08-08.19.41:067][790]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/BETA/Stone_008_Inst.Stone_008_Inst
+[2025.10.08-08.19.41:202][790]LogRenderer: Reallocating scene render targets to support 1336x1032 Format 9 NumSamples 1 (Frame:1).
+[2025.10.08-08.19.56:912][726]LogMaterial: Display: Missing cached shadermap for Stone_008 in PCD3D_SM5, Default, SM5 (DDC key hash: C70F07D255F1F7981AA661AC5ABCFDF91EBDE603), compiling. 
+[2025.10.08-08.19.56:921][726]LogMaterial: Display: Missing cached shadermap for Stone_008 in PCD3D_SM5, Default, SM5 (DDC key hash: AA93EEB7FE11310F0D09E0E3CC59971492E0053C), compiling. 
+[2025.10.08-08.19.56:927][726]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.08-08.19.56:927][726]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.08-08.19.56:927][726]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2025.10.08-08.19.56:972][727]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2025.10.08-08.19.56:972][727]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2025.10.08-08.19.56:972][727]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2025.10.08-08.19.56:972][727]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2025.10.08-08.19.57:837][774]MaterialEditorStats: Texture samplers: 5/16
+[2025.10.08-08.19.57:837][774]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.08-08.19.57:837][774]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2025.10.08-08.20.05:192][204]LogMaterialEditor: Saving and Compiling material Stone_008
+[2025.10.08-08.20.05:548][204]LogMaterial: Display: Missing cached shadermap for Stone_008 in PCD3D_SM5, Default, SM5 (DDC key hash: C3529B08F722EA537DEAFD10F733B7F99C43DFD2), compiling. 
+[2025.10.08-08.20.05:596][204]LogMaterial: Display: Missing cached shadermap for Stone_008 in PCD3D_SM5, Default, SM5 (DDC key hash: 62FF671ED89B36B300CDE198B7AD7BC7FFBC90AA), compiling. 
+[2025.10.08-08.20.05:663][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.10.08-08.20.05:684][204]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2025.10.08-08.20.06:094][204]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2025.10.08-08.20.06:094][204]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2025.10.08-08.20.06:094][204]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2025.10.08-08.20.06:115][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.10.08-08.20.06:183][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BETA/Stone_008" FILE="C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/BETA/Stone_008.uasset" SILENT=true
+[2025.10.08-08.20.06:202][204]LogSavePackage: Moving 'C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Saved/Stone_00856DD4CB14BB7322666E9FEA9B1C615EB.tmp' to 'C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/BETA/Stone_008.uasset'
+[2025.10.08-08.20.06:226][204]AssetCheck: New page: Asset Save: Stone_008
+[2025.10.08-08.20.06:226][204]LogContentValidation: Display: Validating Material /Game/BETA/Stone_008.Stone_008
+[2025.10.08-08.20.20:340][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BETA/Stone_008_Inst" FILE="C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/BETA/Stone_008_Inst.uasset" SILENT=true
+[2025.10.08-08.20.20:351][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.10.08-08.20.20:363][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.10.08-08.20.20:372][ 31]LogSavePackage: Moving 'C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Saved/Stone_008_Inst8E8BEB6D4BF4B9691C03399D05AAEB56.tmp' to 'C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/BETA/Stone_008_Inst.uasset'
+[2025.10.08-08.20.20:388][ 31]AssetCheck: New page: Asset Save: Stone_008_Inst
+[2025.10.08-08.20.20:388][ 31]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/BETA/Stone_008_Inst.Stone_008_Inst
+[2025.10.08-08.20.30:184][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.10.08-08.20.31:147][614]LogSlate: Window 'Delete Assets' being destroyed
+[2025.10.08-08.20.31:244][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.10.08-08.20.35:796][863]LogContentBrowser: Deferred new asset file creation: Stone_008_Inst_Inst
+[2025.10.08-08.20.35:823][863]LogContentBrowser: Creating deferred item: Stone_008_Inst_Inst
+[2025.10.08-08.20.36:461][902]LogContentBrowser: Attempting asset rename: Stone_008_Inst_Inst -> Stone_008_Inst_Inst
+[2025.10.08-08.20.36:461][902]LogContentBrowser: End creating deferred item Stone_008_Inst_Inst
+[2025.10.08-08.20.37:414][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.10.08-08.20.38:275][958]LogSlate: Window 'Delete Assets' being destroyed
+[2025.10.08-08.20.38:335][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.10.08-08.20.39:886][ 40]LogContentBrowser: Deferred new asset file creation: Stone_008_Inst1
+[2025.10.08-08.20.39:923][ 40]LogContentBrowser: Creating deferred item: Stone_008_Inst1
+[2025.10.08-08.20.40:483][ 74]LogContentBrowser: Attempting asset rename: Stone_008_Inst1 -> Stone_008_Inst1
+[2025.10.08-08.20.40:483][ 74]LogContentBrowser: End creating deferred item Stone_008_Inst1
+[2025.10.08-08.20.40:924][ 99]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/BETA/Stone_008_Inst1.Stone_008_Inst1
+[2025.10.08-08.20.52:629][790]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BETA/Stone_008_Inst1" FILE="C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/BETA/Stone_008_Inst1.uasset" SILENT=true
+[2025.10.08-08.20.52:638][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.10.08-08.20.52:649][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.10.08-08.20.52:659][790]LogSavePackage: Moving 'C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Saved/Stone_008_Inst131EF27E54681068B43E54FBE0D7CD553.tmp' to 'C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/BETA/Stone_008_Inst1.uasset'
+[2025.10.08-08.20.52:674][790]AssetCheck: New page: Asset Save: Stone_008_Inst1
+[2025.10.08-08.20.52:674][790]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/BETA/Stone_008_Inst1.Stone_008_Inst1
+[2025.10.08-08.21.01:768][323]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Backend/GameLevelObjects/GameBall.GameBall
+[2025.10.08-08.21.01:916][323]LogClass: Warning: Enum '/Game/VFXSeries1/Blueprints/Enums/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2025.10.08-08.21.01:919][323]LogClass: Warning: Enum '/Game/VFXSeries1/Blueprints/Enums/Projectiles/Enum_ProjectileType.Enum_ProjectileType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2025.10.08-08.21.01:920][323]LogClass: Warning: Enum '/Game/VFXSeries1/Blueprints/Enums/Projectiles/Enum_UserSetBeamProjectile.Enum_UserSetBeamProjectile' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2025.10.08-08.21.01:921][323]LogClass: Warning: Enum '/Game/VFXSeries1/Blueprints/Enums/Projectiles/Enum_UserSetKineticProjectile.Enum_UserSetKineticProjectile' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2025.10.08-08.21.01:923][323]LogClass: Warning: Enum '/Game/VFXSeries1/Blueprints/Enums/Projectiles/Enum_UserSetPlasmaProjectile.Enum_UserSetPlasmaProjectile' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2025.10.08-08.21.01:924][323]LogClass: Warning: Enum '/Game/VFXSeries1/Blueprints/Enums/Projectiles/Enum_UserSetProjectileType.Enum_UserSetProjectileType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2025.10.08-08.21.02:034][323]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2025.10.08-08.21.55:676][ 58]BlueprintLog: New page: Compile GameBall
+[2025.10.08-08.21.55:860][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2025.10.08-08.21.56:843][ 90]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2025.10.08-08.21.56:875][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2025.10.08-08.21.58:984][ 90]LogSlate: Window 'Save Content' being destroyed
+[2025.10.08-08.21.59:019][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Backend/GameLevelObjects/GameBall" FILE="C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Backend/GameLevelObjects/GameBall.uasset" SILENT=true
+[2025.10.08-08.21.59:305][ 90]LogSavePackage: Moving 'C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Saved/GameBallD3DD80464AF1AEF8849D9AA6A722540E.tmp' to 'C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Backend/GameLevelObjects/GameBall.uasset'
+[2025.10.08-08.21.59:368][ 91]AssetCheck: New page: Asset Save: GameBall
+[2025.10.08-08.21.59:368][ 91]LogContentValidation: Display: Validating Blueprint /Game/Backend/GameLevelObjects/GameBall.GameBall
+[2025.10.08-08.22.24:652][483]LogMaterialEditor: Saving and Compiling material Stone_008
+[2025.10.08-08.22.24:685][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BETA/Stone_008" FILE="C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/BETA/Stone_008.uasset" SILENT=true
+[2025.10.08-08.22.24:688][483]LogSavePackage: Moving 'C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Saved/Stone_008580232B440F75DCBCA5ADDA8C40FC290.tmp' to 'C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/BETA/Stone_008.uasset'
+[2025.10.08-08.22.24:706][483]AssetCheck: New page: Asset Save: Stone_008
+[2025.10.08-08.22.24:706][483]LogContentValidation: Display: Validating Material /Game/BETA/Stone_008.Stone_008
+[2025.10.08-08.22.38:360][282]BlueprintLog: New page: Compile GameBall
+[2025.10.08-08.22.38:479][282]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2025.10.08-08.22.39:509][319]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2025.10.08-08.22.39:534][319]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2025.10.08-08.22.40:556][319]LogSlate: Window 'Save Content' being destroyed
+[2025.10.08-08.22.40:601][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Backend/GameLevelObjects/GameBall" FILE="C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Backend/GameLevelObjects/GameBall.uasset" SILENT=true
+[2025.10.08-08.22.40:871][319]LogSavePackage: Moving 'C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Saved/GameBallA3047C984ED822D66BC200960E828358.tmp' to 'C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Backend/GameLevelObjects/GameBall.uasset'
+[2025.10.08-08.22.40:924][320]AssetCheck: New page: Asset Save: GameBall
+[2025.10.08-08.22.40:924][320]LogContentValidation: Display: Validating Blueprint /Game/Backend/GameLevelObjects/GameBall.GameBall
+[2025.10.08-08.23.32:939][613]BlueprintLog: New page: Compile GameBall
+[2025.10.08-08.23.33:039][613]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2025.10.08-08.23.33:854][655]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2025.10.08-08.23.33:878][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2025.10.08-08.23.34:963][655]LogSlate: Window 'Save Content' being destroyed
+[2025.10.08-08.23.34:997][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Backend/GameLevelObjects/GameBall" FILE="C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Backend/GameLevelObjects/GameBall.uasset" SILENT=true
+[2025.10.08-08.23.35:261][655]LogSavePackage: Moving 'C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Saved/GameBallAD3FB37E410657FB605904B127F994F5.tmp' to 'C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Backend/GameLevelObjects/GameBall.uasset'
+[2025.10.08-08.23.35:292][656]AssetCheck: New page: Asset Save: GameBall
+[2025.10.08-08.23.35:293][656]LogContentValidation: Display: Validating Blueprint /Game/Backend/GameLevelObjects/GameBall.GameBall
+[2025.10.08-08.24.29:497][351]LogEditorViewport: Clicking on Actor (LMB): Emitter (ывы)
+[2025.10.08-08.24.32:496][526]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source2)
+[2025.10.08-08.24.36:681][771]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2025.10.08-08.24.36:747][771]LogSavePackage: Moving 'C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Saved/TestLevel9789E55E41868E6CD76A1A814754A57C.tmp' to 'C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Backend/TestLevel/TestLevel.umap'
+[2025.10.08-08.24.36:761][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Backend/TestLevel/TestLevel_BuiltData" FILE="C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Backend/TestLevel/TestLevel_BuiltData.uasset" SILENT=true
+[2025.10.08-08.24.36:762][771]LogSavePackage: Moving 'C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Saved/TestLevel_BuiltData04B0BA094AAF77EBEA7BAC9EB49CC8A9.tmp' to 'C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Backend/TestLevel/TestLevel_BuiltData.uasset'
+[2025.10.08-08.24.36:787][771]AssetCheck: New page: Asset Save: multiple assets
+[2025.10.08-08.24.36:787][771]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Backend/TestLevel/TestLevel_BuiltData.TestLevel_BuiltData
+[2025.10.08-08.24.36:787][771]LogContentValidation: Display: Validating World /Game/Backend/TestLevel/TestLevel.TestLevel
+[2025.10.08-08.24.37:315][803]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2025.10.08-08.24.37:339][803]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2025.10.08-08.25.22:553][ 55]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2025.10.08-08.25.22:584][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2025.10.08-08.26.09:682][361]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2025.10.08-08.26.09:717][361]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2025.10.08-08.26.09:974][374]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2025.10.08-08.26.10:035][374]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2025.10.08-08.27.44:297][ 31]BlueprintLog: New page: Compile GameBall
+[2025.10.08-08.27.44:417][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2025.10.08-08.28.05:137][246]BlueprintLog: New page: Compile GameBall
+[2025.10.08-08.28.05:261][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2025.10.08-08.28.41:089][297]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2025.10.08-08.28.41:117][297]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2025.10.08-08.28.42:232][297]LogSlate: Window 'Save Content' being destroyed
+[2025.10.08-08.28.42:270][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Backend/GameLevelObjects/GameBall" FILE="C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Backend/GameLevelObjects/GameBall.uasset" SILENT=true
+[2025.10.08-08.28.42:588][297]LogSavePackage: Moving 'C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Saved/GameBallB43E942A4A3C3B4BFB29D0A7F9800DB1.tmp' to 'C:/Users/DarkWolf/Documents/Unreal Projects/ZUMA/Content/Backend/GameLevelObjects/GameBall.uasset'
+[2025.10.08-08.28.42:626][298]AssetCheck: New page: Asset Save: GameBall
+[2025.10.08-08.28.42:626][298]LogContentValidation: Display: Validating Blueprint /Game/Backend/GameLevelObjects/GameBall.GameBall
+[2025.10.08-08.29.58:062][665]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2025.10.08-08.29.58:097][665]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2025.10.08-08.32.11:511][227]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2025.10.08-08.32.11:848][228]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2025.10.08-08.32.12:341][229]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2025.10.08-08.32.12:840][230]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2025.10.08-08.32.13:341][231]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2025.10.08-08.32.13:841][232]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2025.10.08-08.32.14:342][233]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2025.10.08-08.32.14:842][234]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2025.10.08-08.32.15:342][235]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2025.10.08-08.32.15:843][236]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2025.10.08-08.32.33:967][290]LogD3D11RHI: Error: Device->CreateBuffer(&Desc, NULL, UniformBufferResource.GetInitReference()) failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11UniformBuffer.cpp:150 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2025.10.08-08.32.33:967][290]LogD3D11RHI: [Aftermath] GDynamicRHI=000002E242D60F00, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2025.10.08-08.32.33:967][290]LogWindows: Windows GetLastError: Операция успешно завершена. (0)
